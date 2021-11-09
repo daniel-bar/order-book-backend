@@ -32,5 +32,5 @@ Client - React.js using TypeScript.
 
 
 # MORE -
-I know this is not customary to initialize socket.io in a separate but in the case of a the test project in my opinion it's cleaner.
+I know this is not customary to initialize socket.io in a separate file but in the case of a the test project in my opinion it's cleaner.
 In order to provide you with the fastest and most convenient installation for the small project I've added my API_KEY/API_SECRET_KEY for binance API and all unwanted files to git.
